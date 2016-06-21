@@ -43,6 +43,7 @@ curl -fsSL https://raw.githubusercontent.com/supermarin/Alcatraz/deploy/Scripts/
 
 ##Reference
 
+- [Documentation by Mattt Thompson](http://nshipster.com/documentation/) (include Guidelines for Writing Objective-C Documentation)
 - [onevcat/VVDocumenter-Xcode](https://github.com/onevcat/VVDocumenter-Xcode)
 - [tomaz/appledoc](https://github.com/tomaz/appledoc)
 - [Auto-generating Docsets for your own iOS project](http://mathijskadijk.nl/post/83900134580/auto-generating-docsets-for-your-own-ios-project)
