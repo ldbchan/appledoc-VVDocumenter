@@ -1,4 +1,4 @@
-##Installation
+## Installation
 
 ```bash
 # install appledoc with template
@@ -10,16 +10,16 @@ curl -fsSL https://raw.githubusercontent.com/supermarin/Alcatraz/deploy/Scripts/
 ```
 
 
-##Integrate Document Comment in Xcode
+## Integrate Document Comment in Xcode
 
 1. Restart Xcode and press `⇧⌘9`
 2. Install **VVDocumenter-Xcode**
 3. Now you can just type `///` to generate comments automatically
 
 
-##Generate Documentation in Xcode
+## Generate Documentation in Xcode
 
-###There are two ways to generate docsets:
+### There are two ways to generate docsets:
 
 1. **Run appledoc command in Project**
 	
@@ -41,7 +41,7 @@ curl -fsSL https://raw.githubusercontent.com/supermarin/Alcatraz/deploy/Scripts/
 	4. Build and then docset will be generated
 	5. Press `⇧⌘0` to check your documentation
 
-##Reference
+## Reference
 
 - [Documentation by Mattt Thompson](http://nshipster.com/documentation/) (include Guidelines for Writing Objective-C Documentation)
 - [onevcat/VVDocumenter-Xcode](https://github.com/onevcat/VVDocumenter-Xcode)
